@@ -1,0 +1,11 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="istenen class'lari calistirma">
+    <test name="classlar">
+        <classes>
+            <class name="test.US004."/>
+
+
+        </classes>
+    </test>
+</suite>
